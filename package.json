@@ -1,0 +1,9 @@
+{
+  "name": "doddaballapur-3d-prints-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Custom ecommerce starter for Doddaballapur 3D Prints",
+  "dependencies": {
+    "razorpay": "^2.9.6"
+  }
+}
